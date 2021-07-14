@@ -1,10 +1,62 @@
+body, head{
+	background:#FFA500;
+}
+
+header{
+	
+	padding: 20px 0;
+	
+}
+.caixa{
+	
+	width: 940px;
+	padding: 30px;
+}
+nav {
+	position: absolute;
+	top: 17px;
+	right:50px ;
+}
+nav li{
+	display: inline;
+	margin: 0 0 0 15;
+
+}
+
 nav a{
 	text-transform: uppercase;
 	color: #000000;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
+	padding: 20px;
 }
 nav a:hover{
 	color: #FFDEAD;
 }
+.imagem1{
+	padding-left: 28%;
+	
+}
+h3{
+	text-align: center;
+}
+
+.imgprincipal{
+	width: 800px;
+	margin: 2em auto;
+}
+p{
+		font-family: 'Otomanopee One', sans-serif;
+}
+h4{
+	font-size: 25px;
+}
+ul{
+	font-size: 20px;
+}
+/*margin: 10px 10px;
+text-align: top;
+	position: relative;
+
+ */
