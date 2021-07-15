@@ -24,6 +24,7 @@ nav li{
 }
 
 nav a{
+	transition: 400ms;
 	text-transform: uppercase;
 	color: #000000;
 	font-weight: bold;
@@ -32,7 +33,9 @@ nav a{
 	padding: 20px;
 }
 nav a:hover{
+	transition:400ms ;
 	color: #FFDEAD;
+	text-shadow:4px 4px 4px #000000;
 }
 .imagem1{
 	padding-left: 28%;
@@ -42,9 +45,12 @@ h3{
 	text-align: center;
 }
 
+
+
 .imgprincipal{
 	width: 800px;
 	margin: 2em auto;
+	
 }
 p{
 		font-family: 'Otomanopee One', sans-serif;
@@ -55,3 +61,4 @@ h4{
 ul{
 	font-size: 20px;
 }
+
