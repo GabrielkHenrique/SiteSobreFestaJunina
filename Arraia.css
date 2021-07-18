@@ -52,11 +52,10 @@ h3{
 
 
 .imgprincipal{
-	width: 800px;
+	width: 950px;
 	margin: 2em auto;
-
-	
 }
+
 p{
 		font-family: 'Otomanopee One', sans-serif;
 }
@@ -70,7 +69,7 @@ ul{
 	display: flex;
 	align-items: center;
 	flex-direction:column ;
-	margin: 50px 0;
+	
 }
 .texto-musicas{
 	text-align: center;
